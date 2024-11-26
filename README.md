@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**JawharSoussia/JawharSoussia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate and dedicated software developer with a strong background in designing, coding, and deploying innovative solutions. Over the course of my career
 
 Here are some ideas to get you started:
 
